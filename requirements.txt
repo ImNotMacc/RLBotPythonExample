@@ -6,3 +6,4 @@ rlbottraining
 
 # This will cause pip to auto-upgrade and stop scaring people with warning messages
 pip
+requests>=2.32.0 # not directly required, pinned by Snyk to avoid a vulnerability
